@@ -78,7 +78,7 @@ Para ejecutar este proyecto dentro de un contenedor Docker:
 
 Esto iniciará el entrenamiento de los modelos dentro del contenedor y los resultados se registrarán en MLflow.
 
-3. Visualizar los experimentos en [http://localholst:5000]([http://localholst:5000).
+3. Visualizar los experimentos en [http://localhost:5000]([http://localhost:5000).
 
 ## Contribución
 
