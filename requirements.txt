@@ -3,5 +3,5 @@ tensorflow
 scikit-learn
 matplotlib
 mlflow
-datesets
+datasets
 pandas
