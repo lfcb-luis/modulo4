@@ -136,7 +136,7 @@ Iniciar el servidor local de MLflow, ejecutando:
 mlflow server --backend-store-uri sqlite:///mlflow.db --host 0.0.0.0 --port 5000
 ```
 
-5. **Instalar dependencias dentro del entorno virtual:**
+5. **Ejecutar la aplicación:**
 
 ```bash
 python app.py
