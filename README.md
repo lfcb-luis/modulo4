@@ -141,11 +141,12 @@ mlflow server --backend-store-uri sqlite:///mlflow.db --host 0.0.0.0 --port 5000
 ```bash
 python app.py
 ```
+Esto entrenará los modelos y registrará los resultados en MLflow.
+
 6. Visualizar los experimentos en [http://127.0.0.1:5000](http://127.0.0.1:5000).
 
 ![Metricas](<Imagen de WhatsApp 2025-03-03 a las 00.19.22_2ea30e90.jpg>)
 
-Esto entrenará los modelos y registrará los resultados en MLflow.
 
 ## Ejecución en Docker
 
